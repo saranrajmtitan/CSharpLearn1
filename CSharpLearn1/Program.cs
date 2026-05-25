@@ -28,7 +28,7 @@ namespace CSharpLearn1
 
             }
 
-                Console.WriteLine(aa.ToString());
+                Console.WriteLine(caaa.ToString());
         }
     }
 
