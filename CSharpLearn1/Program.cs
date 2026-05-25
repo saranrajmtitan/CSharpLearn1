@@ -10,6 +10,26 @@ namespace CSharpLearn1
     {
         static void Main(string[] args)
         {
+
+            //terenary operator
+            object withBujji = null;
+
+
+   object caaa = withBujji ?? "fafhdsus";
+
+
+
+            if (withBujji == null)
+            {
+
+            }
+            else
+            {
+
+            }
+
+                Console.WriteLine(aa.ToString());
         }
     }
+
 }
